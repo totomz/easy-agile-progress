@@ -10,7 +10,7 @@ This is a simple, quick&dirty Greasemonkey/Tampermonkey script that
 # How to install
 Install [Greasemonkey](https://addons.mozilla.org/it/firefox/addon/greasemonkey/)/[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=it)
 
-
+Click [this link](https://raw.githubusercontent.com/totomz/easy-agile-progress/master/script.js)
 
 # How to customize
 Fork this repo and choose your preferred statistics (story points, remaining estimates, whatever)
