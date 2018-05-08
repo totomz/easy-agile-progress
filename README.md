@@ -7,6 +7,8 @@ This is a simple, quick&dirty Greasemonkey/Tampermonkey script that
 * Add a button to the Easy Agile Roadmap page
 * Show the origianl epic estimate and the progress (as number of resolved issues on total issues in the epic)
 
+![Example](https://raw.githubusercontent.com/totomz/easy-agile-progress/master/screen.png)
+
 # How to install
 Install [Greasemonkey](https://addons.mozilla.org/it/firefox/addon/greasemonkey/)/[Tampermonkey](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=it)
 
