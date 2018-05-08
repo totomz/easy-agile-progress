@@ -3,7 +3,7 @@
 // @namespace    https://my-ideas.it
 // @version      0.1
 // @description  Show esitmation and progress on Easy Agile Roadmap - https://easyagile.com/
-// @author       Tommaso Doninelli & Giorgio Catenazzi 2018
+// @author       Tommaso Doninelli & Giorgio Catenacci 2018
 // @match        https://d3vsp726wp2k0e.cloudfront.net/*
 // @require      https://code.jquery.com/jquery-3.3.1.min.js
 // @grant        GM_xmlhttpRequest
